@@ -6,9 +6,7 @@ Caeser Cipher using with different key values
 
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
-
 ## DESIGN STEPS:
-
 ### Step 1:
 
 Design of Caeser Cipher algorithnm 
@@ -27,10 +25,8 @@ Implementation using C or pyhton code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
-
-
+  	
 ## PROGRAM:
-
 ``` C
 
 #include <stdio.h>
@@ -98,7 +94,6 @@ int main() {
     return 0;
 }
 ```
-
 
 ## OUTPUT:
 ### Simulating Caesar Cipher
