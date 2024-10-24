@@ -102,7 +102,7 @@ int main() {
 ## RESULT:
 The Caeser Cipher program is executed successfully
 ----------
-
+# EX-2-PlayFair Cipher
 # PlayFair Cipher
 Playfair Cipher using with different key values
 
@@ -350,6 +350,7 @@ int main() {
 ## Result:
 The program for play fair is executed successfully.
 
+# EX-3-HILL CIPHER
 # Hill Cipher
 Hill Cipher using with different key values
 
@@ -469,6 +470,7 @@ int main() {
 
 The program for hill cipher is executed successfully.
 
+# EX-4-VIGENERE CIPHER
 # Vigenere Cipher
 Vigenere Cipher using with different key values
 
@@ -571,6 +573,8 @@ void decipher() {
 
 ## Result:
 The program for Vigenere Cipher is executed successfully.
+
+# EX-5-RAIL FENCE CIPHER
 # Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
